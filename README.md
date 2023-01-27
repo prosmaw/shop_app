@@ -1,7 +1,7 @@
 # shop_app
 
 Shop app is not a personnal project. I made it using this tutorial https://youtu.be/XBKzpTz65Io. 
-It's an application of an online shop. It is part of my learning path and this tutorial helped to learn and apply some flutter how to use GridView in flutter and some clean code stuff. I planned to upgrade this up by my own.
+It's an application of an online shop. It is part of my learning path and this tutorial helped to learn and apply some flutter stuffs like how to use GridView in flutter and some clean code stuff. I planned to upgrade this up by my own.
 
 ## Getting Started
 
